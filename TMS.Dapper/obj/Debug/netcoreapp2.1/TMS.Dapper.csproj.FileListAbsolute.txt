@@ -1,0 +1,12 @@
+E:\TMS_Software\TMSAPI\TMS.Dapper\bin\Debug\netcoreapp2.1\TMS.Dapper.deps.json
+E:\TMS_Software\TMSAPI\TMS.Dapper\bin\Debug\netcoreapp2.1\TMS.Dapper.dll
+E:\TMS_Software\TMSAPI\TMS.Dapper\bin\Debug\netcoreapp2.1\TMS.Dapper.pdb
+E:\TMS_Software\TMSAPI\TMS.Dapper\bin\Debug\netcoreapp2.1\TMS.DataEntities.dll
+E:\TMS_Software\TMSAPI\TMS.Dapper\bin\Debug\netcoreapp2.1\TMS.DataEntities.pdb
+E:\TMS_Software\TMSAPI\TMS.Dapper\obj\Debug\netcoreapp2.1\TMS.Dapper.csprojAssemblyReference.cache
+E:\TMS_Software\TMSAPI\TMS.Dapper\obj\Debug\netcoreapp2.1\TMS.Dapper.AssemblyInfoInputs.cache
+E:\TMS_Software\TMSAPI\TMS.Dapper\obj\Debug\netcoreapp2.1\TMS.Dapper.AssemblyInfo.cs
+E:\TMS_Software\TMSAPI\TMS.Dapper\obj\Debug\netcoreapp2.1\TMS.Dapper.csproj.CopyComplete
+E:\TMS_Software\TMSAPI\TMS.Dapper\obj\Debug\netcoreapp2.1\TMS.Dapper.dll
+E:\TMS_Software\TMSAPI\TMS.Dapper\obj\Debug\netcoreapp2.1\TMS.Dapper.pdb
+E:\TMS_Software\TMSAPI\TMS.Dapper\obj\Debug\netcoreapp2.1\TMS.Dapper.csproj.CoreCompileInputs.cache
